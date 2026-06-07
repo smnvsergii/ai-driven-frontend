@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Node (на случай примеров)
+node_modules/
+dist/
+.env
