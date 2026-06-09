@@ -31,7 +31,7 @@ Goals of this repository:
 |---|-------|----------------|----------------------------|:------:|
 | 1.1 | Prompt & Context Engineering | Prompt structure, passing context, iterative refinement | [1.1](./examples/1-foundations/1.1-prompt-and-context-engineering.md) | ✅ |
 | 1.2 | AI Rules / Custom Instructions | Project rules for the assistant (`.cursorrules`, `AGENTS.md`, steering files) | [1.2](./examples/1-foundations/1.2-ai-rules-and-custom-instructions.md) | ✅ |
-| 1.3 | Custom skills / commands | Reusable commands and skills for routine tasks | _link_ | ⬜ |
+| 1.3 | Custom skills / commands | Reusable commands and skills for routine tasks | [1.3](./examples/1-foundations/1.3-custom-skills-and-commands.md) | ✅ |
 
 ### 2. Daily Workflow
 
