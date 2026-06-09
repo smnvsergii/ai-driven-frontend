@@ -30,7 +30,7 @@ Goals of this repository:
 | # | Topic | What to master | Example in `memory-cards` | Status |
 |---|-------|----------------|----------------------------|:------:|
 | 1.1 | Prompt & Context Engineering | Prompt structure, passing context, iterative refinement | [1.1](./examples/1-foundations/1.1-prompt-and-context-engineering.md) | ✅ |
-| 1.2 | AI Rules / Custom Instructions | Project rules for the assistant (`.cursorrules`, `AGENTS.md`, steering files) | _link_ | ⬜ |
+| 1.2 | AI Rules / Custom Instructions | Project rules for the assistant (`.cursorrules`, `AGENTS.md`, steering files) | [1.2](./examples/1-foundations/1.2-ai-rules-and-custom-instructions.md) | ✅ |
 | 1.3 | Custom skills / commands | Reusable commands and skills for routine tasks | _link_ | ⬜ |
 
 ### 2. Daily Workflow

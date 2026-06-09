@@ -30,7 +30,7 @@ AI-інструменти швидко стають стандартом, але
 | # | Тема | Що опанувати | Приклад у `memory-cards` | Статус |
 |---|------|--------------|---------------------------|:------:|
 | 1.1 | Prompt & Context Engineering | Структура промпта, передача контексту, ітеративне уточнення | [1.1](./examples/1-foundations/1.1-prompt-and-context-engineering.ua.md) | ✅ |
-| 1.2 | AI Rules / Custom Instructions | Правила проєкту для асистента (`.cursorrules`, `AGENTS.md`, steering-файли) | _посилання_ | ⬜ |
+| 1.2 | AI Rules / Custom Instructions | Правила проєкту для асистента (`.cursorrules`, `AGENTS.md`, steering-файли) | [1.2](./examples/1-foundations/1.2-ai-rules-and-custom-instructions.ua.md) | ✅ |
 | 1.3 | Custom skills / commands | Власні перевикористовувані команди та скіли для рутинних задач | _посилання_ | ⬜ |
 
 ### 2. Daily Workflow — щоденна робота
