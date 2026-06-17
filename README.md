@@ -38,7 +38,7 @@ Goals of this repository:
 | # | Topic | What to master | Example in `memory-cards` | Status |
 |---|-------|----------------|----------------------------|:------:|
 | 2.1 | AI Code Review | Reviewing PRs with AI, checklists, catching regressions | [2.1](./examples/2-daily-workflow/2.1-ai-code-review.md) | ✅ |
-| 2.2 | AI Debugging | Locating bugs, reading stack traces, forming and testing hypotheses | _link_ | ⬜ |
+| 2.2 | AI Debugging | Locating bugs, reading stack traces, forming and testing hypotheses | [2.2](./examples/2-daily-workflow/2.2-ai-debugging.md) | ✅ |
 | 2.3 | AI Testing | Generating unit/e2e tests, test cases, edge cases | _link_ | ⬜ |
 
 ### 3. Tooling & Integration
