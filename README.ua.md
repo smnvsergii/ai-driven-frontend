@@ -39,7 +39,7 @@ AI-інструменти швидко стають стандартом, але
 |---|------|--------------|---------------------------|:------:|
 | 2.1 | AI Code Review | Рев'ю PR з AI, чеклісти, виявлення регресій | [2.1](./examples/2-daily-workflow/2.1-ai-code-review.ua.md) | ✅ |
 | 2.2 | AI Debugging | Локалізація багів, читання стектрейсів, гіпотези та перевірка | [2.2](./examples/2-daily-workflow/2.2-ai-debugging.ua.md) | ✅ |
-| 2.3 | AI Testing | Генерація unit/e2e-тестів, тест-кейси, edge cases | _посилання_ | ⬜ |
+| 2.3 | AI Testing | Генерація unit/e2e-тестів, тест-кейси, edge cases | [2.3](./examples/2-daily-workflow/2.3-ai-testing.ua.md) | ✅ |
 
 ### 3. Tooling & Integration — інструменти та інтеграція
 
